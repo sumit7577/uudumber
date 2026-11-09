@@ -1,0 +1,13 @@
+Module        : /data/app/~~vsJSEk0BJYSg2FtbkTJLbw==/com.bello.battlerush-WJHw0aWWTxcqyc3o6spwJw==/lib/arm64/libUE4.so
+Base Address  : 0x725be39000
+GNames        : 0x726b8bb430   +0xfa82430
+GUObjectArray : 0x726b903ed8   +0xfacaed8
+GWorld        : 0x739c0f0460   +0x1402b7460
+
+Measured offsets:
+  TUObjectArrayToNumElements  0x14
+  FUObjectItemSize            0x20
+  FNameStride                 0x02
+  FNameEntryToString          0x02
+
+Objects       : 15638
